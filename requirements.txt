@@ -1,0 +1,9 @@
+datasets
+transformers
+torch
+tqdm
+python-dateutil
+click
+faker
+accelerate
+
