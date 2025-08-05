@@ -6,5 +6,9 @@ python-dateutil
 click
 faker
 accelerate
+black
+isort
+mypy
+pre-commit
 python-dotenv
 aiofiles
