@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (swashington) and Customer (tinalee). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges. 
+Dialogue:
+Agent (swashington): Hello, this is Washington from SecureCloud Inc. I was reaching out to help you with our enterprise cloud backup solutions.
+
+Customer (tinalee): Hi, I wasn't expecting a call for that. How can I benefit from your services?
+
+Agent (swashington): We offer robust data protection tailored for businesses like yours. Our enterprise cloud backup ensures that your critical data is safe and accessible at any time.
+
+Customer (tinalee): That does sound important, especially given how much we rely on our data. What exactly makes your service stand out?
+
+Agent (swashington): Our service offers a multi-layered security approach, with end-to-end encryption and access controls. Plus, we provide 24/7 monitoring to detect and prevent threats.
+
+Customer (tinalee): Encryption and 24/7 monitoring sound impressive. What about the cost?
+
+Agent (swashington): We believe in providing the utmost value. Our pricing structure is transparent, with competitive rates that offer you unmatched protection.
+
+Customer (tinalee): I'm interested in the

@@ -1,0 +1,19 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (bwhite) and Customer (brandonsanchez). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges.
+Agent (bwhite): Good morning! This is Brandon from XYZ Customer Service. How may I assist you today?
+
+Customer (brandonsanchez): Hi Brandon, this is Luis Sanchez. I'm having trouble accessing my CRM subscription on the new laptop.
+
+Agent (bwhite): Hello Luis, I'm sorry to hear that. Can you confirm if you're using the latest version of your browser for access?
+
+Customer (brandonsanchez): Yes, I'm using the latest version of Chrome.
+
+Agent (bwhite): Great! Let's try clearing your browser cache. Sometimes outdated cache can cause access issues.
+
+Customer (brandonsanchez): Okay, I've cleared the cache. It's still not working, though.
+
+Agent (bwhite): Understood. Can you check if your firewall or antivirus is blocking the connection?
+
+Customer (brandonsanchez): Just checked, and it seems fine. No firewall issues.
+
+Agent (bwhite): Let's ensure your subscription is active. Can you navigate to the 'My Account' section in your CRM and check the subscription status?

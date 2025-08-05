@@ -1,0 +1,9 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (goodmancourtney) and Customer (sawyerjamie). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Ensure the dialogue includes a query about warranty, an offer for a free consultation, and a mention of a government rebate program.
+
+GoodmanCourtney (Agent): Good morning, GoodmanCourtney Customer Support. My name is Jamie Sawyer. How can I assist you today?
+GoodmanCourtney (Agent): Good morning, Jamie. I’m calling on behalf of GoodmanCourtney's Solar Solutions team. How are you doing today?
+Customer (Sawyerjamie): Good morning. I'm doing well, thank you. I've been looking into solar panels for my home and heard you offer installations.
+Agent (GoodmanCourtney): That's correct, Jamie. We specialize in efficient and reliable solar panel installations. Are you looking to reduce your energy bills or are there other benefits you're interested in?
+Customer (Sawyerjamie): Reducing my bills sounds great, but I'm also interested in the long-term environmental impact. Plus, I'm curious about how it will affect my home’s value.
+Agent (GoodmanC

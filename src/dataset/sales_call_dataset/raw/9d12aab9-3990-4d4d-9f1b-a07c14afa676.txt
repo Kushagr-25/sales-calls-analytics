@@ -1,0 +1,8 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (johnbarnes) and Customer (alejandrofischer). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges. Don't introduce yourself until you reach a natural break in the conversation. Stop the conversation at an appropriate moment. Write a conversation transcript, with clear speaker labels, about the following situation: User (amandareid) engages in a discussion with a Sales Agent (lucywright) about the benefits of enterprise cloud backup for small businesses. The dialogue should last approximately 12 exchanges. Start without introducing the Sales Agent. Continue once a natural pause occurs. The conversation should be clear, realistic, and useful in a sales context. The dialogue should stop before the end of the conversation, leaving room for a follow-up.
+
+Agent (lucywright): Good morning, and thank you for calling TechSecure Solutions, this is Lucy Wright speaking. How may I help you today?
+
+User (amandareid): Hi Lucy, this is Amanda Reid. I'm looking into data backup options for my small bakery. We've had a few close calls with system failures, and I want to prevent that in the future.
+
+Agent (lucywright): I'm sorry to hear that, Amanda. It's cru

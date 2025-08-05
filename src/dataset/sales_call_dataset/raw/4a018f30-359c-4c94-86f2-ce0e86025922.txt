@@ -1,0 +1,11 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (kayala) and Customer (fwalker). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Write only the dialogue, no stage directions.
+
+Customer (fwalker): Hello, I'm interested in your CRM software. Could you tell me more about it?
+Agent (kayala): Absolutely, Mr. Walker. Our CRM is designed to streamline your sales process, improve customer relationships, and enhance your team's productivity. Would you like a detailed presentation?
+Customer (fwalker): Yes, that would be great. Does it integrate well with other tools?
+Agent (kayala): It does, indeed. We offer seamless integration with marketing automation tools, email platforms, and analytics services. It's all about making your workflow more efficient.
+Customer (fwalker): Sounds good. What about pricing?
+Agent (kayala): Our SaaS CRM subscription is scalable. We offer a range of flexible plans to accommodate small businesses to large enterprises. More details can be provided once I have a sense of your team size and expected usage.
+Customer (fwalker): Well, I have a medium-sized team. Can I get a custom quote?
+Agent (kayala): Of

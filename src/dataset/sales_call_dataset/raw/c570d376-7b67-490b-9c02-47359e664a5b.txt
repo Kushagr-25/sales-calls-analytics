@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (benjamin28) and Customer (ffoster). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (benjamin28): Hello, thank you for calling CloudSafe IT Solutions. My name is Benjamin. How may I assist you today?
+
+Customer (ffoster): Hi Benjamin, I'm looking for information about your enterprise cloud backup services.
+
+Agent (benjamin28): Absolutely, Mr. Foster. We offer a comprehensive suite of cloud backup solutions tailored for businesses of all sizes. Our services include not just data backup but also a recovery plan to ensure minimal downtime in case of a data loss incident.
+
+Customer (ffoster): That sounds quite comprehensive. How does it work?
+
+Agent (benjamin28): The process is straightforward. Our services work on a '3-2-1' backup strategy, ensuring that you have three copies of your data, two copies stored locally and one in the cloud. This redundancy guarantees that your data is safe even if one copy is compromised.
+
+Customer (ffoster): Interesting. And how often do backups occur?
+
+Agent (benjamin28): We offer both scheduled and continuous backup options depending on your needs. Our enterprise packages often include automated back

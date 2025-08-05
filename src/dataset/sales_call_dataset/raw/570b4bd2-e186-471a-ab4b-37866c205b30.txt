@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (kathrynrandolph) and Customer (kathleen13). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Kathryn should provide product information and address Kathleen's concerns about installation costs. Kathleen should express intent to consider the offer.
+
+**Solution 1:**
+
+Kathryn: Good afternoon, may I speak to Kathleen Smith?
+
+Kathleen: Speaking.
+
+Kathryn: Hello Kathleen, this is Kathryn Randolph from SunSaver Solar. We've recently installed solar panels on homes in your neighborhood, and I'd love to tell you about our products and offer.
+
+Kathleen: Hi Kathryn, I've actually been thinking about going solar. Can you tell me more about the products and installation process?
+
+Kathryn: Absolutely! Solar panel systems are a great way to reduce your energy bills and carbon footprint. We offer a range of systems from basic kits to complete home systems, depending on your needs.
+
+Kathleen: That sounds promising. What about my roof? How much of an impact will the solar panels have?
+
+Kathryn: Our professionals assess your roof to ensure it's suitable for solar

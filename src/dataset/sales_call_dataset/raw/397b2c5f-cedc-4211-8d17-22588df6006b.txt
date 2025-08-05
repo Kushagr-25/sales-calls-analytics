@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (rpotter) and Customer (brian73). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges. Include the customer expressing hesitation about switching from another brand. Agent reassures and explains the unique benefits.
+
+Agent: Hello Brian, this is Rachel from HealthTech Wearables. How has your experience been with your current fitness tracker?
+
+Customer: Hi Rachel, I've been using the FitTrack Plus for a while. It's been decent, but I'm curious about what HealthTech has to offer.
+
+Agent: I'm glad you're considering new options! Our wearables are designed with the latest technology to help you track your health more comprehensively. We have features like advanced heart rate monitoring and stress management.
+
+Customer: Heart rate monitoring is good, but I've heard it's pretty common. What makes HealthTech different?
+
+Agent: Great question, Brian. Unlike most, our heart rate monitoring is non-invasive and more accurate—even during sleep. Plus, our sleep analysis helps you understand your rest quality in detail, which your current tracker doesn't offer.
+
+Customer: Hmm, sleep analysis sounds interesting. But I'm worried about switching. I'm invested in Fit

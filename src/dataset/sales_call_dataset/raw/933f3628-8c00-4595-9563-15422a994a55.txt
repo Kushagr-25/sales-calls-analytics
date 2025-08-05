@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (garciaamber) and Customer (smorales). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges.
+
+Agent: Good morning! I'm calling from Garcia Amber Health Solutions. I understand you're interested in our health-tech wearable devices. How may I assist you?
+
+Customer: Hi, yes, I've been looking for a wearable that can monitor my heart rate and sleep patterns. Do you have any recommendations?
+
+Agent: Certainly! We offer a range of wearables that fit your needs. The HeartMate Pro and SleepWell Fit are both excellent choices, with advanced features to track your heart rate, sleep quality, and even stress levels.
+
+Customer: That sounds interesting. Can you tell me more about the HeartMate Pro?
+
+Agent: Of course! The HeartMate Pro is our best-selling model. It not only tracks heart rate and sleep patterns but also provides personalized insights on your cardiovascular health. It syncs with your smartphone, allowing you to monitor your data anytime.
+
+Customer: That's quite impressive. And what about the SleepWell Fit?
+
+Agent: The SleepWell Fit focuses exclusively on sleep and stress management. It uses a proprietary

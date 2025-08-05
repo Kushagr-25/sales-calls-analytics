@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (bchristensen) and Customer (yjuarez). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges.
+
+: Greeting, product inquiry, concern about data privacy, interest in trial offer, confirmation of purchase and receipt of information. - CHAT TRANSCRIPT:
+
+Agent: Good morning! This is Brianna Christensen with HealthWare Solutions. How may I assist you today?
+
+Customer: Hi, my name is Yolanda Juarez. I'm interested in the health-tech wearable you have on offer.
+
+Agent: Hello, Yolanda! We have a range of wearables designed to monitor your fitness and health metrics. Which one are you considering?
+
+Customer: I'm leaning towards the VitalFit Band. Could you tell me more about its features?
+
+Agent: Absolutely! The VitalFit Band tracks heart rate, sleep patterns, and daily activity levels. It also has a stress-level monitor and sends notifications for activity reminders.
+
+Customer: Sounds impressive. But I am concerned about my privacy. How does your product handle my data?
+
+Agent: Great question! We prioritize your privacy. All data is encrypted and stored securely. Only you can access your

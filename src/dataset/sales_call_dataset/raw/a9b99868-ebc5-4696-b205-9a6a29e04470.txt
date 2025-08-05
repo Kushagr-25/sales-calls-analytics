@@ -1,0 +1,20 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (crystal63) and Customer (brittany99). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges. Emphasize the benefits of AI integration for customer service efficiency. Introduce a discount offer for first-time buyers.
+
+Agent: Hello, this is Crystal from InnoTech Solutions. May I speak with Brittany?
+
+Brittany: Speaking. What's this about?
+
+Agent: Hi Brittany, I'm calling to introduce a new AI-powered chatbot solution that could greatly enhance your customer service.
+
+Brittany: An AI chatbot? Aren't those just for big tech companies?
+
+Agent: Absolutely not. We've tailored our chatbot to seamlessly integrate with small businesses like yours. It can handle inquiries around the clock, freeing up your team to focus on more complex tasks.
+
+Brittany: That sounds interesting, but how does it work exactly?
+
+Agent: Our AI chatbot uses advanced natural language processing to understand customer requests and provide instant responses. It's trained with extensive data to ensure accuracy and helpfulness.
+
+Brittany: How can I trust it with my customers?
+
+Agent: We've tested it

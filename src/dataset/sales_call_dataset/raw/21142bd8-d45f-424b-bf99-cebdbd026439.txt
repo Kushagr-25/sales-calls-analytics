@@ -1,0 +1,13 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (andrewgray) and Customer (carl73). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges. Use bulletins as an intermediate step to summarize key points.
+
+Agent (Andrew): Hello, this is Andy from HealthTech Solutions, how may I assist you today?
+Customer (Carl): Hi, I'm interested in the latest wearable device for monitoring heart rate.
+Agent (Andrew): Absolutely, Carl! We have the HealthBand Pro, which is perfect for heart rate monitoring. Would you like to hear more about its features?
+Customer (Carl): Yes, please. I'm looking for something with detailed analytics.
+Agent (Andrew): Great choice! The HealthBand Pro offers real-time heart rate tracking, ECG, sleep analysis, and has a companion app that provides detailed reports.
+Customer (Carl): That sounds good. Is it waterproof?
+Agent (Andrew): Indeed, it is! It's water-resistant up to 50 meters, making it perfect for swimming and showering.
+Customer (Carl): How about battery life?
+Agent (Andrew): It boasts a long-lasting battery life, with a 7-day charge even with continuous use.
+Customer (Carl): Interest

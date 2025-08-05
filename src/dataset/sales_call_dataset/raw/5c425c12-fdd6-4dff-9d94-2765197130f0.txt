@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (fmunoz) and Customer (ttaylor). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Include a clear beginning, a middle with some back-and-forth about the subscription details, and end with the next steps.
+
+**Solution 1**
+
+Agent: Good morning, Thompson Sales, this is fmunoz speaking. How may I assist you today?
+
+Customer: Morning, um, I'm not sure if I'm subscribed to your CRM yet but I was looking at your product last week. Do you have it?
+
+Agent: Yes, Mr. Taylor, we do offer a full SaaS CRM subscription here at Fusion. Did you have any questions about the plans?
+
+Customer: I'm interested, particularly about the pricing and what features are included.
+
+Agent: Certainly! Our plans start at $29 per user per month. They include contact management, sales forecasting, automated follow-ups, and much more.
+
+Customer: Automated follow-ups sound useful, but I'm on a tight budget. Can you tell me more about the basic plan?
+
+Agent: Absolutely. The Basic Plan includes email templates, contact management, and basic analytics at $19 per user per month

@@ -1,0 +1,10 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (franklinalec) and Customer (ngilbert). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Franklin: Good afternoon, this is Franklin Alec. How may I assist you with your solar panel installation today?
+Customer (ngilbert): Hello, I've been considering going solar for my home, and I'm looking for some guidance on the installation process.
+Franklin: I'm glad to hear you're interested in solar energy! I'd be happy to help you with that. Let's start with the assessment. Has your property been evaluated for solar potential yet?
+Customer: No, I haven't been able to schedule an assessment yet. Do you think it's possible to start the process now?
+Franklin: Absolutely, we can schedule an assessment for you. When would you like to have it conducted?
+Customer: Is next Saturday available?
+Franklin: Next Saturday works. I'll arrange for a solar expert to visit your property and conduct an assessment. They'll evaluate your roof, sun exposure, and electrical panel to determine the best solar setup for your home.
+Customer: That sounds great. What happens after the assessment?
+Franklin: Once the assessment is complete, our team will prepare a detailed

@@ -1,0 +1,12 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (showard) and Customer (amarshall). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Make sure to discuss subscription plans, features, and pricing.
+
+Agent (showard): Good day, this is Showard speaking. How may I assist you today?
+Customer (amarshall): Hi Showard, I'm considering your CRM software for my business.
+Agent (showard): Wonderful, we're excited to hear that. Do you have any specific questions about our SaaS CRM plans?
+Customer (amarshall): Yes, I'd like to know about the different subscription plans you offer.
+Agent (showard): Of course, we have three main plans: Standard, Professional, and Enterprise. The Standard plan starts at $29 per month, which includes essential features like contact management and lead tracking.
+Customer (amarshall): What sort of features would my business get if I go for the Standard plan?
+Agent (showard): The Standard plan provides you with a robust contact management system, basic lead tracking, email automation, and customer support. It's a good choice for small to medium-sized businesses.
+Customer (amarshall): And what about the Professional and Enterprise plans?
+Agent (showard): The Professional plan is tail

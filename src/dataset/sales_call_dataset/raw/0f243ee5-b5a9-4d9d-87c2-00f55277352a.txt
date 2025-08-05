@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (hsmith) and Customer (nicholaswhite). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (hsmith): Hi there, this is Henry from HealthTrack Wearables. How can I assist you today?
+
+Customer (nicholaswhite): Hello, Henry. I've been interested in your health-tech wearable. Can you tell me more about it?
+
+Agent (hsmith): Of course, Nicholas. Our wearable is designed to monitor your physical activity, sleep patterns, and heart rate. It syncs with a mobile app to provide detailed insights.
+
+Customer (nicholaswhite): That sounds impressive. What about durability? And battery life?
+
+Agent (hsmith): It's built with a scratch-resistant screen and water-resistant body. The battery lasts up to 7 days on a single charge.
+
+Customer (nicholaswhite): I travel a lot for work. Is it easy to use if I'm on the go?
+
+Agent (hsmith): Absolutely, it's very user-friendly. You can easily pair it with your devices and the app is accessible anywhere with mobile data or Wi-Fi.
+
+Customer (nicholaswhite): Great to hear. Do you

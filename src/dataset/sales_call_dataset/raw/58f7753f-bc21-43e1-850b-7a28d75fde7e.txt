@@ -1,0 +1,20 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (oarroyo) and Customer (econner). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Customer wants to upgrade their plan.
+
+Agent: Good afternoon! This is Oarroyo from Sales at YourCompanySaaS. I hope I'm not interrupting any important work?
+
+Customer: No, not at all. I'm actually here to discuss our current CRM plan.
+
+Agent: Excellent! As a valuable customer of YourCompanySaaS, I'd like to offer you an opportunity to upgrade your subscription. Our advanced plan with additional features could benefit your business greatly.
+
+Customer: Interesting. What features would the upgrade include?
+
+Agent: With the upgrade, you'd get enhanced data analytics, customizable dashboards, and increased automation capabilities. Plus, as a loyal customer, you'll receive dedicated support and exclusive promotional offers.
+
+Customer: That does sound appealing. What would the cost difference be?
+
+Agent: The upgrade would be a recurring cost increase of $200 per month. However, I believe the added value justifies the investment.
+
+Customer: I see. Can you send me detailed information on the new features and their benefits?
+
+Agent: Absolutely, I'll

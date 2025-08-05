@@ -1,0 +1,10 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (kimberlylawson) and Customer (shelly38). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (kimberlylawson): Good evening, thank you for calling OmniCRM Solutions, this is Kimberly. How may I assist you today?
+Customer (shelly38): Hello Kimberly, I'm Shelly. I've been a long-term user of your CRM system, and I'm considering a few upgrades.
+Agent (kimberlylawson): Hello Shelly, it's great to hear that you're considering upgrades. Our CRM system has numerous capabilities. Are there specific features you're interested in?
+Customer (shelly38): Yes, I'm particularly interested in your advanced analytics tools and the possibility of integrating with my current marketing automation platform.
+Agent (kimberlylawson): Certainly, Shelly! Our SaaS solution includes robust analytics that can provide deep insights into customer behavior. And for integration, we have partnerships with leading marketing automation platforms to ensure seamless connectivity.
+Customer (shelly38): That sounds promising. What about custom reports and the level of technical support I can expect?
+Agent (kimberlylaw

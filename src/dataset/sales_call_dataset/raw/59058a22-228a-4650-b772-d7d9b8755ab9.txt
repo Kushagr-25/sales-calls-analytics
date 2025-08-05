@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (cwright) and Customer (gravesandrew). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. Emphasize the annual fee benefits. The agent must clarify the fee structure. The customer hesitates but shows interest.
+
+Agent: Hello, this is cwright from the bank. May I speak with Mr. Graves and Andrew, please?
+
+Customer: Yes, this is them. I'm concerned about the fees associated with our credit card.
+
+Agent: I understand your concerns. Let's talk about our premium credit card. It comes with a $95 annual fee, which includes a competitive rate, a $200 statement credit, and priority customer service.
+
+Customer: A $95 fee? That's quite hefty. Why should we consider this card?
+
+Agent: The annual fee is offset by the benefits. You save on interest with our lower APR rate, and you also get a $200 statement credit to your account every year.
+
+Customer: But isn't that just a marketing gimmick?
+
+Agent: Not at all. The $200 statement credit is a real value that can help with everyday expenses or even investments. And if you travel internationally, you can use your credit card without

@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (tinabentley) and Customer (wmorse). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. The agent should offer a discount and mention a free trial period.
+
+Agent (tinabentley): "Good afternoon, this is Tina Bellentley from Titan Sales, how can I assist you today?"
+
+Customer (wmorse): "Hello, Tina. I'm interested in your CRM software for my small business."
+
+Agent (tinabentley): "I'd be happy to help with that! Our CRM is designed to streamline customer interactions and improve sales processes. May I know what specific features you're looking for?"
+
+Customer (wmorse): "I need something that can help manage customer data, automate sales follow-ups, and track my interactions across different platforms."
+
+Agent (tinabentley): "Our SaaS CRM certainly has those capabilities, and we've received excellent feedback from businesses of your size. Would you like a demonstration to see how it works?"
+
+Customer (wmorse): "Yes, that would be great. How does it work with teams?"
+
+Agent (tinabentley): "Our CRM allows for easy sharing and collaboration within your team. You can

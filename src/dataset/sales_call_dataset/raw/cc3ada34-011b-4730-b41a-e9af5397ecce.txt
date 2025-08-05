@@ -1,0 +1,12 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (gabriellemyers) and Customer (cheryl66). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges. Begin with an introduction and a thank you for taking the time.
+
+Agent (gabriellemyers): Hello, my name is Gabrielle Myers, and I'm calling from CloudSafe Solutions. I'm reaching out to Cheryl as part of our customer success team. May I speak with Cheryl, please?
+
+Customer (cheryl66): Speaking. What's this about?
+
+Agent (gabriellemyers): Hi Cheryl, I'm glad you answered. I'm following up on your recent inquiry about our enterprise cloud backup solutions. It seems like you're looking for a robust option to secure your company's data. I just wanted to see if you had any questions or if there’s anything else I can assist you with regarding our services?
+
+Customer (cheryl66): Well, yes, I had a few questions about data recovery times and cost.
+
+Agent (gabriellemyers): Absolutely, those are important considerations. Our on-demand backup service offers an average data recovery time of less than 30 minutes in most cases. And regarding the cost, it

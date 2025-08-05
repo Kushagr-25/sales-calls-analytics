@@ -1,0 +1,12 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (jonathansmith) and Customer (jgonzalez). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. The customer should express concerns about cost and installation time. Agent reassures and highlights benefits of the product.
+
+CUSTOMER (jgonzalez): Hi, I'm interested in solar panels for my home, but I'm worried about the cost and, I suppose, the time it will take to set everything up.
+
+AGENT (jonathansmith): Good day, Mr. Gonzalez! I completely understand your concerns. Solar panel installation is an investment, but we offer competitive pricing and financing options to make it more accessible. And regarding the installation, it's usually a straightforward process that we can complete quickly.
+
+CUSTOMER (jgonzalez): I've heard that solar panels can be a significant upfront cost, though.
+
+AGENT (jonathansmith): Indeed, the initial cost can seem high, but think of solar panels as a long-term savings tool. Plus, we have various payment plans. To give you a rough estimate, the cost can be significantly offset by the reduction in your electricity bills over time.
+
+CUSTOMER (jgonzalez):

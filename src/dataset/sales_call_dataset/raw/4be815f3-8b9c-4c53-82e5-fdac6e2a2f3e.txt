@@ -1,0 +1,10 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (charlesjones) and Customer (ahenderson). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Ensure the tone is customer-friendly. Only communicate what is in the quotes.
+
+## Your job is to utilize the document's content on 'Fundamentals of Solar Panel Installation' to create a scripted dialogue between two experts. The conversation must include at least 4 specific technical terms mentioned in the document (e.g., photovoltaic system, net metering, efficiency rating, and inverter), explain them in simple terms within the dialogue, and end with a summary of the pros and cons of installing solar panels as detailed in the document. The dialogue should realistically capture a professional exchange on solar panel installation, focusing on client education. The speakers are Expert 1 (Dr. Green) and Expert 2 (Prof. Solar). Each speaker's lines should not exceed 50 words.
+
+Document:
+
+Fundamentals of Solar Panel Installation
+
+The process of installing solar panels involves several key steps, including site assessment, photovoltaic system design, obtaining permits and inspections, installation, and connection to the grid. A photovoltaic system converts sunlight directly

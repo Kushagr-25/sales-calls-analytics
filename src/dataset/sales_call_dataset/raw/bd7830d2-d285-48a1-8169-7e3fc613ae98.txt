@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (david96) and Customer (usanchez). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. Avoid financial advice and sales pressure.
+
+## Your task: Construct a detailed and realistic phone call conversation in English between David (sales agent) and Usanchoz (potential customer), featuring a discussion about the benefits of a premium credit card. Keep the dialogue natural, avoid financial advice, and maintain a sales-friendly yet not pressuring tone over 12 exchanges.
+
+Agent (david96): Good afternoon, this is David speaking from [Brand Name] Credit Services. May I speak with Usanchoz?
+
+Customer (Usanchez): Yes, this is Usanchoz. What can I do for you today?
+
+Agent (david96): Hello Usanchoz! I hope you're having a great day. I wanted to chat with you about our Premium Credit MasterCard. Are you currently interested in exploring credit card options?
+
+Customer (Usanchez): Hi David, I am indeed looking for a new credit card, but I'm not sure which one would be the best fit for me.
+
+Agent (david96): That's perfectly fine, and it's great that you'

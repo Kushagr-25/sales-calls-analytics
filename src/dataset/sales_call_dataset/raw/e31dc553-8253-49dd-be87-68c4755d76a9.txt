@@ -1,0 +1,10 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (lferguson) and Customer (iayala). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Ensure the customer shows interest and signs up for a trial.
+
+Agent (lferguson): Hello, this is Lferguson from SalesVision, how may I assist you today?
+Customer (iayala): Hi there, I'm looking for a CRM solution to manage our sales and clients.
+Agent (lferguson): I’m glad you reached out. Our SaaS CRM, SalesVision, is designed to streamline your sales process and improve client management. Would you like to know about its features?
+Customer (iayala): Yes, please. We want something that's easy to use and can help us track our sales pipeline.
+Agent (lferguson): Absolutely. SalesVision offers a user-friendly interface with customizable dashboards. It provides pipeline tracking, automated workflows, and integrates seamlessly with your existing systems. Does your company have multiple sales teams?
+Customer (iayala): Yes, we do. It's important that everyone has access to the same data.
+Agent (lferguson): Our SaaS CRM ensures data is centralized and accessible by

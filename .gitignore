@@ -1,1 +1,10 @@
+__pycache__/
+*.pyc
+.env
 .venv/
+data/
+*.sqlite3
+.idea/
+.vscode/
+coverage/
+dist/

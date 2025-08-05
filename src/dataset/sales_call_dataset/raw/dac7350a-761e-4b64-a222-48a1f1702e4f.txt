@@ -1,0 +1,9 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (matthew35) and Customer (leah30). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges.
+Agent (matthew35): Good afternoon, thank you for calling Prime Credit Card Services, this is Matthew speaking. How may I assist you today?
+Customer (leah30): Hi, this is Leah. I'm interested in your premium credit card offerings. Can you provide some details?
+Agent (matthew35): Of course, Leah! Our premium credit card offers 0% interest on purchases for the first 12 months, a generous welcome bonus, and extensive travel benefits. Would you like to hear more about the welcome bonus or travel perks?
+Customer (leah30): The welcome bonus sounds interesting. What's it about?
+Agent (matthew35): We give you $250 just for opening your account. It's redeemable for cash back on purchases or towards your first travel class ticket.
+Customer (leah30): That's tempting. How about the travel benefits?
+Agent (matthew35): Our card provides access to airport lounges globally, a daily travel credits program, and no foreign transaction fees on international purchases.

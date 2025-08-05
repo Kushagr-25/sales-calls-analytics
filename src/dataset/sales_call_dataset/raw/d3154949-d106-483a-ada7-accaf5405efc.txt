@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (alyssaoconnell) and Customer (joeldiaz). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. Include a gentle upsell of a credit monitoring service. 
+
+Customer (joeldiaz): Hey, this is Joel here. I'm looking for a new credit card that can help me manage my finances better.
+
+Agent (alyssaoconnell): Good afternoon, Joel! I'm Alyssa, and I'd be happy to assist you with that. May I ask what you're specifically looking for in a credit card?
+
+Customer (joeldiaz): I'm interested in a card that offers good rewards, but most importantly, I want one with a low-interest rate.
+
+Agent (alyssaoconnell): Absolutely, Joel. We have a premium credit card that would be a perfect fit for your needs. It offers a 1.5% cashback on every purchase and a low-interest introductory rate for the first year.
+
+Customer (joeldiaz): That sounds great! But I'm a little concerned about my credit score. It’s not the best.
+
+Agent (alyssaoconnell): I understand your concern, Joel. Our premium credit card

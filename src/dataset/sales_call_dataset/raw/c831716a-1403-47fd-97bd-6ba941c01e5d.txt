@@ -1,0 +1,9 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (stricklandjennifer) and Customer (brittney34). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (StricklandJennifer): Hi, this is Jennifer from Strickland Cloud Support. How can I assist you today?
+Customer (Brittney34): Good morning! My name is Brittney, and I've been using your enterprise cloud backup service. I have a few questions about upgrading my plan.
+Agent (StricklandJennifer): Of course, Brittney. I'd be happy to help with that. What specific details would you like to know about the upgrade options?
+Customer (Brittney34): Well, I'm interested in the 10TB plan, but I want to ensure that my data transition will be smooth and I'll have support during the move.
+Agent (StricklandJennifer): Absolutely, Brittney. Our team ensures a seamless transition. We provide a dedicated support person throughout the migration process. Our 10TB plan also includes an additional 10% of free storage space. Would this be helpful for your needs?
+Customer (Brittney34): That sounds great, but how much does the 10TB plus 10% option cost?

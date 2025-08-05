@@ -1,0 +1,20 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (patrick76) and Customer (sheltonjesus). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges. The conversation should end with a successful appointment booking. Avoid technical jargon and explain benefits without being verbose. agent: Hi, welcome to DigitalSafeguard. My name is Patrick. How can I help you today?
+
+customer: Hello, Patrick. This is Shelton. I'm looking into enterprise cloud backup solutions.
+
+agent: Great choice, Shelton! Our enterprise cloud backup services are designed to keep your company's data safe and accessible. What particular concerns do you have?
+
+customer: Well, we deal with sensitive client information. Security is my main concern.
+
+agent: Absolutely, security is our top priority. We use advanced encryption and comply with industry standards to ensure your data is protected.
+
+customer: That sounds reassuring. How does it work?
+
+agent: Our system automatically backs up your data to the cloud. You can access it from anywhere, and we also provide off-site storage for disaster recovery.
+
+customer: Sounds convenient. How often are the backups made?
+
+agent: We offer continuous backup solutions that work around the clock, so your data is always up to date.
+
+customer: And
