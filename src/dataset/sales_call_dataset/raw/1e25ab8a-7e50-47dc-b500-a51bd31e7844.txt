@@ -1,0 +1,12 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (friedmansteven) and Customer (rodriguezwendy). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges. Use terms such as'machine learning', 'natural language processing', 'training', 'integration', and 'performance'. The AI chatbot plan is based on a 'C' platform and can't be installed on Mac OS.
+
+Agent (friedmansteven): Hello, this is Steven Friedman from Steversoft, how may I assist you today?
+
+Customer (rodriguezwendy): Hi Steven, this is Wendy Rodriguez. I've heard about your AI-powered chatbot plan and I'm interested in learning more about it.
+
+Agent (friedmansteven): Hi Wendy! It's great to hear from you. Our AI chatbot is a powerful solution that leverages machine learning and natural language processing to provide exceptional customer service. What specific features are you looking for in a chatbot?
+
+Customer (rodriguezwendy): I'm looking for a chatbot that can handle various communication channels and provide accurate, helpful responses. Additionally, I'm interested in knowing more about the training process and integration options.
+
+Agent (friedmansteven): Our AI chatbot is designed to seamlessly integrate into your existing customer

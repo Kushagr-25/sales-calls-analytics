@@ -1,0 +1,12 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (jessicagreen) and Customer (jessicaflores). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Remember: no scripting. Avoid repetitive phrases. Keep the content concise and focused on the product benefits. Be empathetic and avoid pushy sales tactics.
+
+Agent (jessicagreen): Hello Jessica, this is Jessica Green from SolarFuture Consultants. I'm calling because I noticed you've shown interest in eco-friendly solutions like solar panels. How are you today?
+
+Customer (jessicaflores): Hi Jessica, yes, I've been thinking about going solar. Though, I'm a bit concerned about the costs involved.
+
+Agent (jessicagreen): I completely understand your concerns about the expenses. However, have you considered the long-term savings on your electricity bill and the increased value of your property?
+
+Customer (jessicaflores): Yes, those are definitely appealing benefits. But what about maintenance? Are solar panels hard to maintain?
+
+Agent (jessicagreen): Great question! Solar panels require minimal maintenance. They're built to withstand the elements, and most companies offer warranties ranging from 20 to 25 years

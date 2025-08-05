@@ -1,0 +1,2 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (aguirrerachel) and Customer (nmays). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges. The conversation should introduce the product benefits, pricing, and plan features, avoiding sales jargon. Conclude with booking a trial.

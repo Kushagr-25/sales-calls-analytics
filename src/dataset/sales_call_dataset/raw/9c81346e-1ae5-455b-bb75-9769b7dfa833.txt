@@ -1,0 +1,15 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (robertsonlisa) and Customer (monica46). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges.
+Agent (robertsonlisa): Good day, may I speak with Monica?
+
+Customer (monica46): This is she. How can I help you?
+
+Agent (robertsonlisa): Hello Monica, this is Robertson from SunPower Solutions. We specialize in solar panel installations. Are you interested in exploring renewable energy options for your home?
+
+Customer (monica46): Yes, I am. What are the benefits and costs associated with solar panel systems?
+
+Agent (robertsonlisa): A solar panel system could significantly reduce your electricity bills. Depending on your energy consumption, we can tailor a system that fits your needs and local regulations. Our average installation cost ranges from $10,000 to $25,000, with potential savings of up to 70% on your energy bill.
+
+Customer (monica46): That's quite an investment. How long is the payback period?
+
+Agent (robertsonlisa): The payback period varies, but with the average energy savings, homeowners typically see a return on their investment in about

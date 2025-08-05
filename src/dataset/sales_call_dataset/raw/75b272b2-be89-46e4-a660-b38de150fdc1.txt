@@ -1,0 +1,2 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (yshelton) and Customer (hmarshall). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges.

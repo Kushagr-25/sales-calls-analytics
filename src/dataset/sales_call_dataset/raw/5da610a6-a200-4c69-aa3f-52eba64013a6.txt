@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (angelarichardson) and Customer (chubbard). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges. Customer is considering the service, and the agent is emphasizing key benefits.
+
+Agent (angelarichardson): Hello, thank you for calling Superior Backup Solutions. My name is Angel Richardson. How can I assist you today?
+
+Customer (chubbard): Hi, I'm trying to find a cloud backup solution for my company. Can you tell me more about your enterprise options?
+
+Agent (angelarichardson): Absolutely, I'd be glad to help. We offer a comprehensive enterprise cloud backup plan that ensures your data is securely stored off-site. This helps protect against local data loss due to hardware malfunctions, theft, or natural disasters.
+
+Customer (chubbard): That sounds good. But how does it save money?
+
+Agent (angelarichardson): By using our cloud backup service, you can avoid the costs associated with maintaining on-premises backup hardware. Plus, we offer scalable storage options, so you only pay for what you use. This can lead to significant cost savings over time, especially as your company grows.
+
+Customer (chubbard): Scalability

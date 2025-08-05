@@ -1,0 +1,20 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (kristine91) and Customer (ckemp). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. Be certain all terms and services are introduced by the Agent.
+
+**Solution 1:**
+
+Agent (kristine91): Hi there, my name is Kristine. How can I assist you today?
+
+Customer (ckemp): Hello Kristine, I'm interested in a credit card but I'm not quite sure which features I should prioritize.
+
+Agent (kristine91): I understand. Can I know a bit about your spending habits? This will help me recommend the best premium credit card for you.
+
+Customer (ckemp): Sure, I travel a lot and I also like to dine out frequently.
+
+Agent (kristine91): Great! Based on that, our Premium Travel and Leisure Card would be ideal. It offers no foreign transaction fees and an annual travel insurance benefit.
+
+Customer (ckemp): Sounds good. How about rewards?
+
+Agent (kristine91): With our Premium Card, you'll earn 2x on dining and travel bookings, plus bonus points on other purchases.
+
+Customer (ckemp): And what about the annual

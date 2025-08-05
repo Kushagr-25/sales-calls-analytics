@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (vargasjohn) and Customer (josephvelazquez). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges. Afterwards, extract the key points of the chat in bullet form under the heading 'Key Points':
+
+Vargas: Hello, this is Vargas from HealthGear, how may I assist you today?
+
+Joseph: Hi there, I'm interested in the health-tech wearable you mentioned last week.
+
+Vargas: Of course, Joseph. I'd be happy to help you with that. We have several models that track various health metrics. Have you used a wearable before?
+
+Joseph: No, this will be my first time. I'm particularly curious about heart rate monitoring and sleep quality.
+
+Vargas: Great choices—they're popular features. Our ProHeart model is excellent for heart rate monitoring. It also gives insights on sleep quality. Would you like to know about the price and warranty?
+
+Joseph: Yes, please. And are there any ongoing discounts or promotions for new customers?
+
+Vargas: Absolutely. For new customers, we offer a 10% discount. And don't worry, our ProHeart comes with a two-year warranty.

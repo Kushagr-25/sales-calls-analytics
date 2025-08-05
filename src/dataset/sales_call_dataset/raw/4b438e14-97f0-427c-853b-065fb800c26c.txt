@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (codywilliams) and Customer (emilybrown). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges.
+
+**Solution:**
+
+Agent (Cody Williams): Good morning, Emily! This is Cody from FitVision, the health-tech wearable specialists. Can I help you with some information today?
+
+Customer (Emily Brown): Hi, Cody! Yes, I've been thinking about getting a wearable to track my health. What can you tell me about your products?
+
+Agent (Cody Williams): Wonderful! We have a range of products that monitor everything from your heart rate to sleep patterns. Our most popular model is the HealthGuard Plus, which also tracks stress levels and activity.
+
+Customer (Emily Brown): That sounds comprehensive. How does the stress tracking work?
+
+Agent (Cody Williams): The HealthGuard Plus uses heart rate variability to monitor stress. If you're feeling anxious or stressed, it detects subtle changes in your heart rate patterns and gives you a stress level rating throughout the day.
+
+Customer (Emily Brown): Interesting. Is it waterproof and durable?
+
+Agent (Cody Williams): Absolutely, Emily. It's designed to be water-resistant and has a

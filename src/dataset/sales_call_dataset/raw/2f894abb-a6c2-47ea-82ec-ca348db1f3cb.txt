@@ -1,0 +1,9 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (xvasquez) and Customer (kingmatthew). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. The customer is interested in monthly plans but unsure about the features. Agent is explaining features without using technical jargon.
+**Agent (xvasquez):** Good afternoon, this is Xavier Vasquez from SaaS Solutions. How can I assist you today?
+**Customer (kingmatthew):** Hello, I'm looking into CRM subscriptions for my growing team, but I'm not sure which plan would suit us.
+**Agent (xvasquez):** Great, I'd love to help you with that. May I ask how many team members you're looking to support and what your team handles?
+**Customer (kingmatthew):** We're a small team of 15, and we're a marketing agency.
+**Agent (xvasquez):** Perfect, our monthly plans are designed to scale. Our basic plan is great for teams starting out and it includes essential features like contact management and task scheduling.
+**Customer (kingmatthew):** That sounds basic. Do you have anything with more features?
+**Agent (xvasquez):** Certainly, we also offer a'standard' plan, which includes

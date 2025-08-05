@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (howardkaren) and Customer (stran). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (howardkaren): Good morning, this is Howard Keller, how may I assist you today?
+
+Customer (stran): Hi Howard, my name is Stran. I'm in charge of IT at a small business, and we're considering upgrading to a cloud backup solution to improve our data backup strategy.
+
+Agent (howardkaren): Good morning, Stran! That’s a smart move. How can I help you with choosing the best enterprise cloud backup solution for your business?
+
+Customer (stran): Well, we mainly need a solution that's reliable and can support our team, which is about 20 people. We need to ensure that our data is safe, and there's minimal downtime in case of failures.
+
+Agent (howardkaren): Absolutely, Stran. Our enterprise cloud backup solution is designed to accommodate businesses of all sizes with features like robust data encryption, high availability, and automatic data replication to minimize downtime.
+
+Customer (stran): That sounds promising. What about managing access? We have different departments that need different access levels.
+
+Agent (

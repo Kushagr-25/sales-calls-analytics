@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (cameronmorales) and Customer (wilsonjason). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. Start from the first phone call.
+
+Agent (Cameron Morales): Good morning, Wilson. This is Cameron from CreditOne Bank's customer service. How may I assist you today?
+
+Customer (Wilson Jason): Hi there, Cameron. I've been considering upgrading my credit card. I heard you have a premium option?
+
+Agent (Cameron Morales): Yes, Wilson, we do offer a premium credit card that comes with a host of extra benefits! Would you like to hear more about them?
+
+Customer (Wilson Jason): Absolutely, I'm all ears.
+
+Agent (Cameron Morales): Great! Our Premium Visa comes with a generous annual travel credit of $200, no foreign transaction fees, and 5% cashback at all dining and grocery stores. It also features a great signup bonus with rewards to keep you adding points.
+
+Customer (Wilson Jason): Sounds intriguing. What about insurance options?
+
+Agent (Cameron Morales): The Premium Visa includes purchasing protection, which covers accidental damage, theft, and

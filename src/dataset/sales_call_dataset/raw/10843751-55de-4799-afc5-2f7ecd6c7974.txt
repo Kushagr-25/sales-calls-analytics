@@ -1,0 +1,23 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (sandersamanda) and Customer (nathanielsnyder). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. (No personal details. Use generic names.) Agent: Hello, this is Sandra from GreenEnergy Solutions calling about your recent inquiry regarding solar panel installation.
+
+
+Customer: Oh, hi Sandra. Yes, I'm still interested in learning more about the options we discussed.
+
+
+Agent: Absolutely, Nathaniel. We have several solar panel packages that can fit different budgets and energy needs. Would you like a general overview or specifics on a particular roof design?
+
+
+Customer: I'm looking for something that works well with my pitched roof and doesn't take up too much space.
+
+
+Agent: Great choice! Our compact pitched roof solar panels are both space-efficient and highly effective. They're designed to align with the angle of your roof for optimal sunlight capture.
+
+
+Customer: Perfect. What about maintenance and warranties?
+
+
+Agent: Our panels come with a 25-year warranty, and maintenance is minimal. You'll just need to keep the panels clean with regular dusting.
+
+
+Customer: Good to know. And the cost savings on my energy bill?

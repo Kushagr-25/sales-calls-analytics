@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (gsnyder) and Customer (michellekelley). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. In the context of the dialogue above, continue the conversation:
+
+Agent (gsnyder): Hello Michelle, I'm Gsnyder from Premium Credit Card services. I'd like to discuss your current card options.
+
+Customer (michellekelley): Hi Gsnyder, sure, I'm interested in hearing about what you have to offer.
+
+Agent (gsnyder): Great to hear! We currently have several options that could suit your needs, such as our Travel Rewards Card, which offers points on every purchase, and our Cashback Cash Card, which provides a higher percentage back on groceries and fuel.
+
+Customer (michellekelley): The Travel Rewards sounds interesting, can you tell me more about the benefits?
+
+Agent (gsnyder): Absolutely, our Travel Rewards Card is designed for frequent travelers. You earn 3x points on travel bookings, 2x points on dining, and 1x points on all other purchases. Points can be redeemed for travel, gift cards, or cashback.
+
+Customer (michelle

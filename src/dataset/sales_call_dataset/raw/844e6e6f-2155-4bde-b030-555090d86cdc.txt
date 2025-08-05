@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (douglaschristina) and Customer (grahamraymond). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges.
+
+Agent: Thank you for calling Premium Credit Card Services, this is Douglas Christina speaking. How may I assist you today?
+
+Customer: Hi, I'm Graham Raymond. I'm looking to upgrade my current credit card to get access to better travel benefits.
+
+Agent: Of course, Graham. We have a variety of premium credit cards that come with excellent travel perks. May I know what kind of travel you're interested in?
+
+Customer: Mostly domestic flights and international hotels. Also, I tend to have multiple card transactions monthly.
+
+Agent: Perfect, Graham. Based on your needs, I'd recommend our Global Explorer credit card. It offers travel insurance, points redeemable for flights and hotels, concierge service, and no foreign transaction fees. It also has a generous credit limit and no annual fee.
+
+Customer: That sounds good. What's the sign-up process?
+
+Agent: Signing up is easy. You can start by filling out our application form, which I can assist you with. Then, you'll need to provide some personal documentation, such as your ID and proof of income.

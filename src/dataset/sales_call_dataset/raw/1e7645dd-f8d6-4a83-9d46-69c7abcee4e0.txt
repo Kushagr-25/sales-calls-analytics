@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (griffinsamuel) and Customer (nealbrandon). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges. 
+
+Agent: Good morning, this is Griffin's Support, how can I assist you today?
+
+Customer: Hi, I've been hearing about the benefits of AI-powered chatbots for customer service. Can you tell me more about what your company offers?
+
+Agent: Absolutely, Neal. Our AI-powered chatbot, GriffinBot, is designed to handle a variety of customer service tasks. It's an advanced solution aimed at reducing response times and increasing customer satisfaction.
+
+Customer: Sounds interesting. How does GriffinBot actually learn to interact with customers effectively?
+
+Agent: GriffinBot uses natural language processing and machine learning algorithms to understand and respond to queries. We fine-tune it with our customer support data to improve its accuracy over time.
+
+Customer: Okay, that's smart. But what kind of tasks can GriffinBot handle?
+
+Agent: GriffinBot can perform tasks such as answering FAQs, guiding users through troubleshooting, booking appointments, and even escalating issues to a human agent when necessary.
+
+Customer: Can it handle more complex queries, like

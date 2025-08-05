@@ -1,0 +1,11 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (umiller) and Customer (davislaura). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges.
+Agent: Good afternoon, thank you for calling CloudSecure Enterprises. I'm Alex Miller. How may I assist you today?
+Customer: Hi Alex, this is Laura Davis. I'm concerned about data loss for my small business and heard that you offer enterprise cloud backup solutions.
+Agent: Absolutely, Ms. Davis. Our enterprise cloud backup services provide secure, reliable, and scalable data storage to protect against loss. Would you like to go over how we can tailor a backup solution for your business?
+Customer: Yes, please. What options do you have?
+Agent: We offer different plans based on your business size and needs. We have the Essential Plan, which is suitable for small businesses, and our Premium Plan, which includes advanced features for larger enterprises.
+Customer: What features are in the Premium Plan?
+Agent: The Premium Plan includes features like real-time data syncing, advanced encryption, 24/7 monitoring, and dedicated customer support. We also offer customizable backup schedules.
+Customer: That sounds comprehensive. How much does it cost?
+Agent: The Premium Plan is priced at $450 per

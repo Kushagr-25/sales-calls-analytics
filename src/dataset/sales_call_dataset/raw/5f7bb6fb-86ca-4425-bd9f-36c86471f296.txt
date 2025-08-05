@@ -1,0 +1,10 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (stephenmoon) and Customer (toneill). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (stephenmoon): Hello and thank you for calling AI Solutions, Stephen here. How may I assist you today?
+Customer (toneill): Hi Stephen, my name is Toneille. I'm interested in your AI chatbot services.
+Agent (stephenmoon): Wonderful Toneille! We offer a variety of chatbot plans, ranging from voice-activated assistance to complex customer service solutions. What are you looking for in a chatbot?
+Customer (toneill): I'm looking for something that can handle customer inquiries for my boutique. Suggestions?
+Agent (stephenmoon): Sure thing. Our Business Intelligent Chatbot, BIC-Bot, seems to be a perfect fit. It's designed to handle customer service inquiries, manage appointments, and even assist in inventory management.
+Customer (toneill): That sounds like a good fit. What kind of pricing are we looking at?
+Agent (stephenmoon): BIC-Bot starts at $2,000 per month. This includes 24/7 support, automatic updates, and extensive customization

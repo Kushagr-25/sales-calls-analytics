@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (chavezrebecca) and Customer (ramseyjason). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (chavezrebecca): Hello, my name is Rebecca, and I'm calling from Chatbot Solutions. May I speak with Mr. Jason Ramsey?
+
+Customer (ramseyjason): Speaking. What's this about?
+
+Agent (chavezrebecca): Hello Mr. Ramsey, I've noticed your company uses a lot of customer service communication, and I wanted to introduce our AI-powered chatbot solution that could enhance your customer interaction.
+
+Customer (ramseyjason): I see. What kind of enhancements are we talking about?
+
+Agent (chavezrebecca): Our chatbot can handle basic inquiries 24/7, allowing your team to focus on more complex tasks. It's programmed to improve with learning, so it gets better over time at understanding and responding to customer queries.
+
+Customer (ramseyjason): Sounds promising, but how does it work in practice?
+
+Agent (chavezrebecca): It's quite simple. We would integrate our chatbot with your current system. Once set up, it can take over routine

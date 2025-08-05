@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (yvonne56) and Customer (pjohnson). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (yvonne56): Hello, this is Yvonne from Sunny Solutions. How can I assist you today?
+
+Customer (pjohnson): Hi, I've been reading about solar energy and its benefits, and I'm interested in installing solar panels at my home.
+
+Agent (yvonne56): That's a great choice! Solar panels can significantly reduce your electricity bills and it's a step towards a greener planet. What type of property do you have?
+
+Customer (pjohnson): It's a single-family home. I'd like to understand more about the process and the costs involved.
+
+Agent (yvonne56): Absolutely! First, we'd conduct an energy assessment to determine the potential savings and the best system size for your home. The installation cost can vary, but we provide competitive quotes based on your assessment.
+
+Customer (pjohnson): I see. Are there any tax incentives or rebates I could benefit from?
+
+Agent (yvonne56): Yes, there are federal tax credits and state-specific in

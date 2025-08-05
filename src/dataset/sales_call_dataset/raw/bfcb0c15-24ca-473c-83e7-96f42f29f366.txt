@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (karen03) and Customer (bbeasley). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges.
+
+#### Solution 1
+
+**Karen03**: Good afternoon, this is Karen from Moneywise Bank. I'm calling to discuss our premium credit card offerings. May I speak with Mr. Bebeasley?
+
+**Mr. Bebeasley**: Speaking.
+
+**Karen03**: Hello Mr. Bebeasley, I hope this call finds you well. I'm calling about our new Premium Credit Card, designed for customers seeking a balance of rewards and excellent service.
+
+**Mr. Bebeasley**: Oh, yeah? What's in it for me?
+
+**Karen03**: Our card offers 2% cashback on groceries and dining, as well as 3% back on travel expenses, including flights and hotels. Plus, we have a welcome bonus of $150 that you can access within the first three months of opening the account.
+
+**Mr. Bebeasley**: Interesting, but what about fees?
+
+**Karen03**: It's fee-free. There are no

@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (garrett84) and Customer (alex03). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges. The conversation must begin with the agent greeting the customer.
+
+Agent (garrett84): Hi Alex, this is Garrett from CreditOne Bank. How may I assist you today?
+
+Customer (alex03): Hey Garrett, I've been thinking about upgrading my credit card. What options do you have?
+
+Agent (garrett84): That sounds great, Alex. We have a variety of premium credit cards. One that might interest you is the CreditOne Platinum Card. It offers excellent rewards and a robust travel insurance.
+
+Customer (alex03): That does sound tempting. What are the rewards and benefits?
+
+Agent (garrett84): With the Platinum Card, you earn 3x points on all purchases, 100,000 bonus points after your first $4,000 in gas purchases in the first three months, and $100 in travel protection per year.
+
+Customer (alex03): Impressive. What about the annual fees?
+
+Agent (garrett84): The annual fee is $450, which includes l

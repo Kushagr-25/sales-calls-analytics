@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (ewatkins) and Customer (lauraphillips). Product: AI-powered chatbot plan. Keep it helpful, natural, and around 12 exchanges. Incorporate potential customer objections like cost and effectiveness.
+
+Agent (ewatkins): Hi, this is ewatkins from BrightMinds AI. I saw that you're looking to improve your customer service. We have a cutting-edge AI chatbot solution that might interest you.
+
+Customer (lauraphillips): Hello, ewatkins. Yes, we're looking to enhance our customer interactions. Can you tell me more about this chatbot?
+
+Agent (ewatkins): Absolutely, Lauraphillips. Our AI chatbot is designed to handle routine customer queries 24/7, which can significantly reduce your support team's workload and increase response times.
+
+Customer (lauraphillips): That sounds promising, but won't it be expensive to implement?
+
+Agent (ewatkins): I understand cost is a concern, but investing in our chatbot will pay off in the long run. It’s more cost-effective than in-house staff, and you can expect a high return on investment due to improved customer satisfaction and retention.
+
+Customer (lauraphillips): Okay

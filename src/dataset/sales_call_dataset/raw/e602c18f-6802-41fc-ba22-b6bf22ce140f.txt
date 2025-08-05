@@ -1,0 +1,18 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (jeremiah49) and Customer (james06). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. The customer should have some concerns about pricing and features. Start.
+
+Agent: Hello, is this James? My name is Jeremiah from QuickCRM Solutions. I'm reaching out regarding your recent inquiry about our CRM software.
+
+Customer: Yes, this is James. I'm interested in your SaaS CRM, but I'm not sure it's worth the investment.
+
+Agent: I completely understand your concerns, James. May I ask what particular aspects of our CRM are concerning you?
+
+Customer: Well, first, I'm worried about the pricing. It seems a bit high for just the basic features.
+
+Agent: I appreciate your honesty. Our pricing reflects the advanced analytics and customer segmentation tools we offer, which many of our clients find invaluable.
+
+Customer: Analytics and segmentation sound useful, but can I actually afford these features?
+
+Agent: Absolutely! We offer different pricing tiers. I can help you find a plan that aligns with your budget and your business needs.
+
+Customer: That's good to hear. What about customization? Can I tailor the

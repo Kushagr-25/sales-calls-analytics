@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (poolemargaret) and Customer (alandry). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Emphasize the key features and benefits.
+
+Agent (poolemargaret): Good morning, ALDRY! This is Margaret from SaaSPro Solutions. Do you have a moment to discuss our CRM software?
+
+Customer (alandry): Hello, Margaret. I'm swamped, but I'm interested. What's special about your CRM?
+
+Agent (poolemargaret): Understandable, ALDRY. Our CRM is designed to streamline your sales processes. Our key features include automated lead tracking, customizable workflows, and detailed analytics.
+
+Customer (alandry): Automation sounds good. Time is money, after all. But will it be easy to use?
+
+Agent (poolemargaret): Absolutely. We offer a user-friendly interface with extensive documentation and customer support. Plus, we provide hands-on training for your team.
+
+Customer (alandry): That training helps a lot. My team could use it. How's the pricing?
+
+Agent (poolemargaret): We have several flexible plans. For your team size, our Standard plan would be a perfect fit, offering

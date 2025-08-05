@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (lewisashley) and Customer (diazjulie). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (lewisashley): Good evening! Thank you for calling First Credit Card Services. My name is Lewis, how may I assist you?
+
+Customer (diazjulie): Hi Lewis, I've heard about your premium credit card and was wondering if there are any benefits that might interest me.
+
+Agent (lewisashley): Absolutely, I'd be delighted to explain. Our premium credit card offers a number of attractive benefits. It includes high cashback rewards on all purchases, which is 2% on dining, groceries, and travel-related expenses.
+
+Customer (diazjulie): That's great! How about annual fees? I've been struggling with expensive card fees lately.
+
+Agent (lewisashley): We understand that fees can be a concern. Our premium credit card has an annual fee of $95, but the high cashback rewards often offset this cost, especially if you meet the spending thresholds.
+
+Customer (diazjulie): Okay, it sounds tempting. Are there any additional perks with the

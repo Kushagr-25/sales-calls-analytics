@@ -1,0 +1,14 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (christinetorres) and Customer (kevinlucero). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. The Agent (Christine Torres) initiates the call, and the Customer (Kevin Lucero) responds.
+
+Agent: Good day, this is Christine Torres from SunPower Solutions. How may I assist you today?
+
+Customer: Hi Christine, this is Kevin Lucero. I'm interested in installing solar panels on my house. Can you provide more details on what that involves?
+
+Agent: Absolutely, Kevin. We offer a complete solar panel installation service. It starts with a site assessment to determine the best placement for your panels. After that, we handle everything from purchasing the equipment to installing and wiring it safely.
+
+Customer: That sounds comprehensive. What about the cost? Are there any government incentives or rebates I should be aware of?
+
+Agent: The starting cost for a residential solar panel system ranges from $15,000 to $25,000, depending on the size and your specific needs. However, there are federal and state incentives that can significantly reduce the upfront cost. Would you like me to have one of our experts contact you with all the details?
+
+Customer:

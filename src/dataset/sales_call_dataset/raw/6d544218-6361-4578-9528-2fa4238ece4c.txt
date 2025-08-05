@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (larsonamy) and Customer (davidobrien). Product: premium credit card. Keep it helpful, natural, and around 12 exchanges.
+
+Agent Larson: Good afternoon, David! This is Larson from Global Finance Inc. May I please have your full name for verification?
+
+Customer David: Hello, Larson. I'm David O'Brien. What can I do for you today?
+
+Agent Larson: Thank you, David. I'm reaching out to discuss our premium credit card offerings. We've seen you're interested in expanding your financial services. May I ask how you manage your credit currently?
+
+Customer David: I have a standard credit card, but I've been thinking about rewards and increased benefits.
+
+Agent Larson: Perfect! That's exactly what our Premium Credit Card offers - a suite of benefits tailored for savvy users like you. It comes with cashback rewards, travel insurance, and even airport lounge access.
+
+Customer David: That sounds interesting, but what's the catch?
+
+Agent Larson: Well, the Premium Credit Card does have a higher annual fee compared to a standard card. However, the benefits you receive often outweigh this additional cost. Plus, our card earns you extra

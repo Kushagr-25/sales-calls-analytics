@@ -1,0 +1,20 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (choichristine) and Customer (vazquezeric). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. Keep it concise.
+
+### Agent (choichristine): Good day, thank you for calling Tech Solutions Support. My name is Chris. How may I assist you?
+
+### Customer (vazquezeric): Hello, Chris. I'm calling about my CRM subscription. I'm having trouble accessing my account.
+
+### Agent (choichristine): I'm sorry to hear that you're experiencing issues. Could you please provide me with your subscription ID?
+
+### Customer (vazquezeric): Sure, it's 987654.
+
+### Agent (choichristine): Thank you. Let me quickly check the status of your subscription. One moment, please.
+
+### Customer (vazquezeric): Okay, I appreciate that.
+
+### Agent (choichristine): It appears that your account is active, but there seems to be a temporary issue with the authentication server. Our tech team is already working on it.
+
+### Customer (vazquezeric): So you're saying I can't access my account right now?
+
+### Agent

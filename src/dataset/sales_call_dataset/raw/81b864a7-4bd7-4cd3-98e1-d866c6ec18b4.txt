@@ -1,0 +1,30 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (shermananna) and Customer (changmelissa). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. The CRM we're discussing is Salesforce. Your conversation should include:
+
+1. Greeting and small talk about the customer's company.
+
+2. Agent shermananna explaining the key benefits of Salesforce for her company.
+
+3. Customer changel expressing interest and asking for pricing.
+
+4. Discussion about Salesforce's custom reporting features.
+
+5. Agent suggesting a special introductory offer.
+
+6. Customer's concern about implementation time and support.
+
+7. Agent addressing those concerns and highlighting Salesforce's quick implementation and strong customer support.
+
+8. Closing the conversation with customer changmelissa feeling confident about making a decision.
+
+
+**Sales Call Transcript:**
+
+
+Shermananna: Good morning! I'm reaching out on behalf of Salesforce to offer our CRM solutions. How are things at your company, Melissa?
+
+
+Changmelissa: Hi Shermananna, we're doing well. Thanks for calling. We've been in the e-commerce space for some time now.
+
+
+Shermananna: That's great to hear! A

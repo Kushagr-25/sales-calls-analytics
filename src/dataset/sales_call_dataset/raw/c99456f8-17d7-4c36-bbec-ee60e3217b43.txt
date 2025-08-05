@@ -1,0 +1,15 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (shannonmurphy) and Customer (kimberly34). Product: health-tech wearable. Keep it helpful, natural, and around 12 exchanges. Include the following elements:
+1. Friendly introduction of the product.
+2. Discussion of customer's fitness goals.
+3. Mention of product features relevant to those goals.
+4. Addressing a potential concern.
+5. Closing with a call to action.
+Begin the conversation with Agent (shannonmurphy) greeting Customer (kimberly34).
+
+
+Agent (shannonmurphy): "Good morning, Kimberly! This is Shannon with the ClearHealth Wearables team. I see you've been exploring our range of health-tech wearables. How are you today?"
+
+Customer (kimberly34): "Morning, Shannon! I am doing well, thanks. I've been looking into getting a fitness tracker. I'm quite curious about what you've to offer."
+
+Agent (shannonmurphy): "That's fantastic to hear! Our ClearHealth Fitness Pro is quite popular. It's not just a tracker – it's a comprehensive health companion. It helps you stay on top of your fitness through GPS, heart rate

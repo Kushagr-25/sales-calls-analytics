@@ -1,0 +1,11 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (melanie35) and Customer (robertsonconnor). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Add a twist where the customer reveals they already have an older model they're using and want to know if there's compatibility with the new installation. Melanie should address their concerns.
+
+Agent (melanie35): Hi there! This is Melanie from Sunny Solutions, how may I assist you today?
+Customer (robertsonconnor): Hello Melanie, this is Robertson Connor. I'm interested in solar panel installations, but I have an older model and was wondering if it's compatible with your new systems?
+
+Agent (melanie35): Good afternoon, Robertson. It's great to hear you're considering Sunny Solutions. To ensure compatibility, could you tell me more about the older solar panels you currently have installed?
+
+Customer (robertsonconnor): Sure, they're the SunPower SP Series from about 5 years ago. I have a few panels, but I'm not sure about their arrangement or how much power I generate.
+
+Agent (melanie35): Thank you for that information. Our new SunHarvestX models are designed with a modular approach, which would make your older panels more

@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (hoffmannicholas) and Customer (brittney26). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges.
+
+Agent (hoffmannichauss): Good day! Thank you for calling CloudTech Solutions, I'm Nicholas Hoffmann. How may I assist you today?
+
+Customer (brittney26): Hi there, I've been looking into backup solutions for my business's data and came across enterprise cloud backup services. Can you tell me more about what you offer?
+
+Agent (hoffmannichauss): Absolutely, Brittney. Our enterprise cloud backup services are designed to secure your business data across multiple locations with advanced encryption. We ensure compliance with industry standards and provide scalable solutions.
+
+Customer (brittney26): That sounds promising. How does the backup process work exactly?
+
+Agent (hoffmannichauss): It's quite user-friendly. Once you sign up, our software automatically backs up your data at scheduled intervals. You can also schedule ad-hoc backups if needed. Plus, you have full control over your backups, including what data to back up and how often.
+
+Customer (brittney26): I'm concerned about data security. How can you guarantee my data will be safe?
+
+Agent (

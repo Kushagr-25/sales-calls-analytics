@@ -1,0 +1,10 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (perezgeorge) and Customer (joshua57). Product: solar panel installation. Keep it helpful, natural, and around 12 exchanges. Agent: Good morning, thank you for calling SolarPlex, how can I help you today?
+Customer: Good morning, I'm interested in installing solar panels for my home. Can you tell me more about your services?
+Agent: Absolutely, Joshua. We specialize in both residential and commercial solar panel installations. To better assist you, could you tell me the size of your property and your usual energy consumption?
+Customer: My house is around 2000 square feet, and my monthly electricity bill averages $200.
+Agent: Great, that's helpful information. Based on your location and energy usage, I estimate you'll save approximately 50% on your electricity bill with our solar panels. We can offer financing options or lease agreements too.
+Customer: That sounds promising. How long is the installation process?
+Agent: The installation usually takes about 4-6 weeks, depending on the complexity of the system and any permits required.
+Customer: What about maintenance? Am I responsible for it?
+Agent: Our solar panel systems are designed to be low-maintenance. You'll have a warranty

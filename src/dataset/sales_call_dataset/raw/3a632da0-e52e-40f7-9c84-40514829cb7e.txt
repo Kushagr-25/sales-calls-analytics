@@ -1,0 +1,11 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (leah62) and Customer (amcgrath). Product: enterprise cloud backup. Keep it helpful, natural, and around 12 exchanges. 
+leah62: Good morning, this is Leah from SecureBackupPro. How can I assist you today?
+amcgrath: Hello Leah, my name is Amanda McGrath. I'm calling about your enterprise cloud backup solutions.
+leah62: Pleasure to speak with you, Amanda. We have several options tailored to businesses like yours. Are you looking for something specific?
+amcgrath: Well, I'm worried about data loss. What can you offer to prevent that?
+leah62: Understandable concern. Our services include 24/7 monitoring and real-time data replication to multiple clouds for redundancy.
+amcgrath: That sounds comprehensive. How does the pricing work?
+leah62: We offer a scalable plan. The pricing depends on the amount of data you need to back up and the frequency of backups.
+amcgrath: I see. Could you provide an example of a small business plan?
+leah62: Absolutely. For a small business with moderate data needs, our basic plan starts at $99 per month,

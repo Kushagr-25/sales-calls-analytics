@@ -1,0 +1,16 @@
+You are simulating a realistic sales phone call in English. Write a conversation transcript with clear speaker labels:
+Agent (sespinoza) and Customer (elizabeth34). Product: SaaS CRM subscription. Keep it helpful, natural, and around 12 exchanges. The dialogue should start with the agent's greeting and end with the customer agreeing to purchase. Avoid using'sorry' and'sorry not', and instead utilize 'apologies' and'regret not'. 
+
+Agent (sespinoza): Good morning, this is Sepinosa Software Solutions. How may I assist you today?
+
+Customer (elizabeth34): Hello, I'm looking for a CRM system for my team to help improve our sales process.
+
+Agent (sespinoza): I'd be happy to help with that. We have several CRM software options that can streamline sales for you. May I know what specific features are you looking for?
+
+Customer (elizabeth34): We need a system that can handle large databases, generate automatic reports, and integrate with our email client.
+
+Agent (sespinoza): Our CRM subscription offers all those features, along with customer scoring and marketing automation tools. It's designed to make your sales process more efficient.
+
+Customer (elizabeth34): That sounds great. But what about customer support?
+
+Agent (sespinoza): We
